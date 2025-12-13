@@ -1,0 +1,59 @@
+                        OPERATORS
+Set1:
+
+1 Basic Operations Write a Java Program to print sum of two numbers.
+2 Basic Operations Write a Java Program to print difference of two numbers.
+3 Basic Operations Write a Java Program to print product of two numbers.
+4 Basic Operations Write a Java Program to print quotient of two numbers.
+5 Basic Operations Write a Java Program to print remainder of two numbers.
+6 Basic Operations Write a Java Program to swap two numbers using a third variable.
+7 Basic Operations Write a Java Program to swap two numbers without using a third variable.
+8 Basic Operations Write a Java Program to print the last digit of a given number N.
+9 Basic Operations Write a Java Program to print all digits except the last digit of a given number N.
+10 Basic Operations Write a Java Program to print the sum of the first and last digit of a 3-digit number.
+11 Basic Operations Write a Java Program to print the middle digit of a 3-digit number.
+12 Basic Operations Write a Java Program to print the absolute value of a number.
+13 Basic Operations Write a Java Program to print the square of a number.
+14 Basic Operations Write a Java Program to print the cube of a number.
+15 Basic Operations Write a Java Program to calculate the average of three numbers.
+16 Basic Operations Write a Java Program to check whether two numbers are equal (true/false).
+17 Basic Operations Write a Java Program to check if a number is power of 2 using bitwise AND.
+18 Basic Operations Write a Java Program to check whether a number is positive or negative.
+19 Basic Operations Write a Java Program to find the greatest of three numbers.
+20 Basic Operations Write a Java Program to print pass/fail result based on marks.
+
+Set 2:
+
+1 Formula Based Write a Java Program to find the area of a rectangle.
+2 Formula Based Write a Java Program to find the area of a square.
+3 Formula Based Write a Java Program to find the area of a triangle.
+4 Formula Based Write a Java Program to find the area of a circle.
+5 Formula Based Write a Java Program to find the distance between two points.
+6 Formula Based Write a Java Program to convert Fahrenheit to Celsius.
+7 Formula Based Write a Java Program to convert Celsius to Fahrenheit.
+8 Formula Based Write a Java Program to find the perimeter of a square.
+9 Formula Based Write a Java Program to find the perimeter of a rectangle.
+10 Formula Based Write a Java Program to find the perimeter of a triangle.
+11 Formula Based Write a Java Program to find the circumference of a circle.
+12 Formula Based Write a Java Program to find surface area, volume, and perimeter of a cube.
+13 Formula Based Write a Java Program to find surface area and volume of a cuboid.
+14 Formula Based Write a Java Program to find surface area and volume of a sphere.
+15 Formula Based Write a Java Program to find surface area and volume of a cylinder.
+
+set 3 :
+
+1 Scenario Based Q1.Write a java Program to print Price After Discount
+2 Scenario Based Q2.Write a java Program to Convert Minutes to Seconds
+3 Scenario Based Q3.Write a java Program to Split the Bill Among 3 Friends
+4 Scenario Based Q4.Write a java Program to Calculate the Distance Travelled
+5 Scenario Based Q5.Write a java Program to Convert Kilometers to Meters
+6 Scenario Based Q6.Write a java Program to Convert Bytes to bits
+7 Scenario Based Q7.Write a java Program to Distribute Candies Equally Among People
+8 Scenario Based Q8.Write a java Program to Calculate Total Cakes Made
+9 Scenario Based Q9.Write a java Program to Calculate Simple Interest
+10 Scenario Based Q10.Write a java Program to calculate Salary of Employee
+11 Scenario Based Q11.Write a java Program to calculate selling price given cost price and profit.
+12 Scenario Based Q12.Write a java Program to calculate cost price given selling price and loss.
+13 Scenario Based Q13.Write a java Program to Mangoes Discount (Buy 3 Get 1 Free) Find Total Amount need to pay
+14 Scenario Based Q14.Write a java Program to Pens Discount (Buy 5, Pay for 3) Find Total Amount need to pay
+15 Scenario Based Q15.Write a java Program to Currency Notes from ATM
