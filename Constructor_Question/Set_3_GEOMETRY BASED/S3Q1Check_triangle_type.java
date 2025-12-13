@@ -1,0 +1,12 @@
+class S3Q1Check_triangle_type {
+    public static void main(String[] args) {
+        int a = 5, b = 5, c = 5;
+
+        if (a == b && b == c)
+            System.out.println("Equilateral Triangle");
+        else if (a == b || b == c || a == c)
+            System.out.println("Isosceles Triangle");
+        else
+            System.out.println("Scalene Triangle");
+    }
+}
